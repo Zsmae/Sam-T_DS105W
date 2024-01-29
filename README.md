@@ -2,7 +2,7 @@
 DS105W 
 ## About me
 
-I am a student at the _LSE_ studying < >.
+I am a student at the _LSE_ studying Politics.
 
 I will use this GitHub profile to showcase my data science skills.
 
